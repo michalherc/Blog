@@ -1,0 +1,12 @@
+django==2.0,<2.1
+psycopg2
+uwsgi
+django-environ
+ipython
+django-extensions
+django-debug-toolbar
+django-haystack
+elasticsearch==2.4.1
+celery
+django-registration-redux
+django-allauth
